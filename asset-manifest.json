@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/venkateswariRam/webapp/static/css/main.e6c13ad2.css",
+    "main.js": "/venkateswariRam/webapp/static/js/main.90d6eb9e.js",
+    "index.html": "/venkateswariRam/webapp/index.html",
+    "main.e6c13ad2.css.map": "/venkateswariRam/webapp/static/css/main.e6c13ad2.css.map",
+    "main.90d6eb9e.js.map": "/venkateswariRam/webapp/static/js/main.90d6eb9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90d6eb9e.js"
+  ]
+}
